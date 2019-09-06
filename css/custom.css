@@ -11,3 +11,51 @@
 #about {
     padding-top: 5rem !important ;
 }
+
+#mobiletablet {
+    display: none ;
+}
+
+@media only screen and (max-width: 470px) {
+  #who {
+    margin-bottom: 0.5rem !important;
+  }
+
+    
+}
+
+@media only screen and (max-width: 770px) {
+  #who {
+    margin-bottom: 0.3rem !important;
+  }
+ #tableth5 {
+    font-size: 1rem !important;
+  }
+ #about {
+    padding-top: 0rem !important ;
+}
+    .small {
+        font-size: 0.9rem !important ;
+    }    
+ #laptop {
+    display: none;
+  }
+ #mobiletablet {
+    display:block ;
+}
+}
+
+@media only screen and (max-width: 1030px) {
+  #who {
+    margin-bottom: 1.5rem !important;
+  }
+ #tableth5 {
+    font-size: 1rem !important;
+  }
+ #about {
+    padding-top: 1px !important ;
+}
+    .small {
+        font-size: 1rem !important ;
+    }    
+}
