@@ -1,0 +1,49 @@
+--- 
+files: 
+  certificate: 
+    uswltd_co_uk_a2329_00d65_1601115170_f6a023bb0c1780d4c84ab5d71365e797: 
+      created: '1569579170'
+      domains: 
+        - uswltd.co.uk
+        - mail.uswltd.co.uk
+        - www.uswltd.co.uk
+        - webmail.uswltd.co.uk
+        - cpanel.uswltd.co.uk
+        - webdisk.uswltd.co.uk
+        - autodiscover.uswltd.co.uk
+      friendly_name: Cert for “uswltd.co.uk”
+      id: uswltd_co_uk_a2329_00d65_1601115170_f6a023bb0c1780d4c84ab5d71365e797
+      is_self_signed: 1
+      issuer.commonName: uswltd.co.uk
+      issuer.organizationName: ~
+      modulus: a232985b8397bdde1ac5dcc96c2b05d38be86b9181ffc94e6b9a354a56759104dc66a109dff63f685fc96ab190755b2e320399438c67002363689a69bffbd2c7e4ac44eefdd27a39c95ec703dea2ca150e15168b529315b2ba413ff66e726c1efd255ae8427aa7c058aaad7226fa3b36d215589919b1ab1b099c0901994331ae927b2d24c3039771ccd2f5049dea27f06919224e3ba2d8ea6d6e28e08e342c055afea10bcb67c37e638c4b831062649922dc85920c9a362cf1dfc0b00bc3c98d4405c67b1ae691c7370ef3edf19ea8e8e84793c01aa934ec6b0f08b3d79bc277f5016d32c6d14ee19fa8c336fb7756f301bdd7ed008e262c45ab8f4c9ab00d65
+      modulus_length: 2048
+      not_after: '1601115170'
+      not_before: '1569579170'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: uswltd.co.uk
+      validation_type: ~
+  key: 
+    a2329_00d65_990809f4731ab7bb57f84a6e39c96567: 
+      created: '1569579170'
+      friendly_name: Key for “uswltd.co.uk”
+      id: a2329_00d65_990809f4731ab7bb57f84a6e39c96567
+      modulus: a232985b8397bdde1ac5dcc96c2b05d38be86b9181ffc94e6b9a354a56759104dc66a109dff63f685fc96ab190755b2e320399438c67002363689a69bffbd2c7e4ac44eefdd27a39c95ec703dea2ca150e15168b529315b2ba413ff66e726c1efd255ae8427aa7c058aaad7226fa3b36d215589919b1ab1b099c0901994331ae927b2d24c3039771ccd2f5049dea27f06919224e3ba2d8ea6d6e28e08e342c055afea10bcb67c37e638c4b831062649922dc85920c9a362cf1dfc0b00bc3c98d4405c67b1ae691c7370ef3edf19ea8e8e84793c01aa934ec6b0f08b3d79bc277f5016d32c6d14ee19fa8c336fb7756f301bdd7ed008e262c45ab8f4c9ab00d65
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      a232985b8397bdde1ac5dcc96c2b05d38be86b9181ffc94e6b9a354a56759104dc66a109dff63f685fc96ab190755b2e320399438c67002363689a69bffbd2c7e4ac44eefdd27a39c95ec703dea2ca150e15168b529315b2ba413ff66e726c1efd255ae8427aa7c058aaad7226fa3b36d215589919b1ab1b099c0901994331ae927b2d24c3039771ccd2f5049dea27f06919224e3ba2d8ea6d6e28e08e342c055afea10bcb67c37e638c4b831062649922dc85920c9a362cf1dfc0b00bc3c98d4405c67b1ae691c7370ef3edf19ea8e8e84793c01aa934ec6b0f08b3d79bc277f5016d32c6d14ee19fa8c336fb7756f301bdd7ed008e262c45ab8f4c9ab00d65: 
+        uswltd_co_uk_a2329_00d65_1601115170_f6a023bb0c1780d4c84ab5d71365e797: ~
+    subject.commonName: 
+      uswltd.co.uk: 
+        uswltd_co_uk_a2329_00d65_1601115170_f6a023bb0c1780d4c84ab5d71365e797: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “uswltd.co.uk”: uswltd_co_uk_a2329_00d65_1601115170_f6a023bb0c1780d4c84ab5d71365e797
+  key: 
+    friendly_name: 
+      Key for “uswltd.co.uk”: a2329_00d65_990809f4731ab7bb57f84a6e39c96567
+    modulus: 
+      a232985b8397bdde1ac5dcc96c2b05d38be86b9181ffc94e6b9a354a56759104dc66a109dff63f685fc96ab190755b2e320399438c67002363689a69bffbd2c7e4ac44eefdd27a39c95ec703dea2ca150e15168b529315b2ba413ff66e726c1efd255ae8427aa7c058aaad7226fa3b36d215589919b1ab1b099c0901994331ae927b2d24c3039771ccd2f5049dea27f06919224e3ba2d8ea6d6e28e08e342c055afea10bcb67c37e638c4b831062649922dc85920c9a362cf1dfc0b00bc3c98d4405c67b1ae691c7370ef3edf19ea8e8e84793c01aa934ec6b0f08b3d79bc277f5016d32c6d14ee19fa8c336fb7756f301bdd7ed008e262c45ab8f4c9ab00d65: a2329_00d65_990809f4731ab7bb57f84a6e39c96567
